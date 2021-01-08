@@ -1,0 +1,15 @@
+file_name,case_id,knowledge_city_level,age,gender,comments,survey_number_danger_points,survey_route_length,best_number_danger_points,best_route_length,distance_ends (m),valid
+case-006_11-Dec-2020_16:12:37.geojson,case-006,zero,25-64,female,,34,3435.691000000001,2,4191.976000000001,0.0,True
+case-006_09-Dec-2020_12:18:40.geojson,case-006,medium,15-24,male,,34,3161.2050000000004,2,4191.976000000001,0.0,True
+case-006_09-Dec-2020_16:28:46.geojson,case-006,high,15-24,female,,34,3077.8330000000005,2,4191.976000000001,83.56601253062253,True
+case-006_10-Dec-2020_19:05:35.geojson,case-006,medium,15-24,male,,34,3190.452000000001,2,4191.976000000001,302.57920565531384,False
+case-006_09-Dec-2020_16:09:51.geojson,case-006,medium,15-24,male,,34,3161.2050000000004,2,4191.976000000001,0.0,True
+case-006_18-Dec-2020_14:49:04.geojson,case-006,medium,25-64,female,,14,3599.7320000000004,2,4191.976000000001,0.0,True
+case-006_18-Dec-2020_21:29:32.geojson,case-006,low,25-64,female,,34,3161.2050000000004,2,4191.976000000001,0.0,True
+case-006_03-Dec-2020_13:12:54.geojson,case-006,high,25-64,male,I avoided Ramon y Cajal because it is school entry time. The automatic routing algorithm got crazy and didn't let me to cross the park.,28,4567.415000000001,2,4191.976000000001,0.0,True
+case-006_13-Dec-2020_12:09:11.geojson,case-006,medium,15-24,male,"I have chosen this option, because I consider it to be the best choice, because at that time people are working and apart from the cold, people are less encouraged to go out.",34,3530.8219999999997,2,4191.976000000001,0.0,True
+case-006_09-Dec-2020_19:19:37.geojson,case-006,medium,15-24,male,,33,3421.2910000000006,2,4191.976000000001,0.0,True
+case-006_10-Dec-2020_19:02:57.geojson,case-006,medium,15-24,female,,32,3643.760999999999,2,4191.976000000001,0.0,True
+case-006_09-Dec-2020_14:15:22.geojson,case-006,low,15-24,male,,34,3421.561000000001,2,4191.976000000001,0.0,True
+case-006_01-Dec-2020_09:33:05.geojson,case-006,low,15-24,male,,34,3447.3190000000004,2,4191.976000000001,0.0,True
+case-006_10-Dec-2020_15:41:35.geojson,case-006,high,15-24,male,He procurado evitar los colegios,34,4615.704,2,4191.976000000001,178.43772596414036,True

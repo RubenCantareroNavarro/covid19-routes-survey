@@ -1,0 +1,15 @@
+file_name,case_id,knowledge_city_level,age,gender,comments,survey_number_danger_points,survey_route_length,best_number_danger_points,best_route_length,distance_ends (m),valid
+case-009_10-Dec-2020_19:04:33.geojson,case-009,medium,15-24,female,,31,3437.3020000000006,63,3494.7889999999993,0.0,True
+case-009_09-Dec-2020_12:19:37.geojson,case-009,medium,15-24,male,,31,3530.9230000000002,63,3494.7889999999993,0.0,True
+case-009_11-Dec-2020_16:15:54.geojson,case-009,zero,25-64,female,,34,3466.6240000000007,63,3494.7889999999993,0.0,True
+case-009_09-Dec-2020_14:17:28.geojson,case-009,low,15-24,male,,21,3613.928000000001,63,3494.7889999999993,0.0,True
+case-009_09-Dec-2020_16:30:24.geojson,case-009,high,15-24,female,,34,3077.8330000000005,63,3494.7889999999993,83.56601253062253,True
+case-009_18-Dec-2020_21:30:36.geojson,case-009,low,25-64,female,,34,3161.2050000000004,63,3494.7889999999993,0.0,True
+case-009_18-Dec-2020_14:52:05.geojson,case-009,medium,25-64,female,,54,3832.9359999999992,63,3494.7889999999993,0.0,True
+case-009_10-Dec-2020_19:06:57.geojson,case-009,medium,15-24,male,,34,3161.2050000000004,63,3494.7889999999993,0.0,True
+case-009_03-Dec-2020_13:15:23.geojson,case-009,high,25-64,male,"I tried to avoid ""conflictive"" neighbourhoods. It has nothin to do with the pandemic, but kind of related with saving my life :-D",30,3947.4540000000015,63,3494.7889999999993,0.0,True
+case-009_09-Dec-2020_14:47:34.geojson,case-009,low,15-24,male,,68,6322.409999999999,63,3494.7889999999993,2738.441026111079,False
+case-009_01-Dec-2020_09:34:26.geojson,case-009,low,15-24,male,,34,3646.6219999999985,63,3494.7889999999993,0.0,True
+case-009_09-Dec-2020_19:22:29.geojson,case-009,medium,15-24,male,,33,3421.2910000000006,63,3494.7889999999993,0.0,True
+case-009_10-Dec-2020_15:52:48.geojson,case-009,high,15-24,male,"En agosto Ciudad Real suele estar casi vacía, aunque haya gente que vaya a trabajar las vacaciones afectan en gran medida el tránsito por lo que no hay casi riesgo, se puede ir por donde se plazca",40,3355.326000000001,63,3494.7889999999993,0.0,True
+case-009_09-Dec-2020_16:11:26.geojson,case-009,medium,15-24,male,,34,3161.2050000000004,63,3494.7889999999993,0.0,True

@@ -1,0 +1,14 @@
+file_name,case_id,knowledge_city_level,age,gender,comments,survey_number_danger_points,survey_route_length,best_number_danger_points,best_route_length,distance_ends (m),valid
+case-005_18-Dec-2020_21:28:27.geojson,case-005,low,25-64,female,,51,3854.9049999999993,1,3440.0599999999995,74.87034811479961,True
+case-005_01-Dec-2020_09:32:39.geojson,case-005,low,15-24,male,,28,3952.627999999998,1,3440.0599999999995,0.0,True
+case-005_09-Dec-2020_14:14:42.geojson,case-005,low,15-24,male,,14,3460.3119999999994,1,3440.0599999999995,39.696618089435,True
+case-005_18-Dec-2020_14:46:50.geojson,case-005,medium,25-64,female,,10,5338.436999999998,1,3440.0599999999995,89.27673041731228,True
+case-005_09-Dec-2020_16:09:27.geojson,case-005,medium,15-24,male,,1,3172.4929999999986,1,3440.0599999999995,81.56386004730501,True
+case-005_09-Dec-2020_19:18:13.geojson,case-005,medium,15-24,male,,5,3434.0279999999993,1,3440.0599999999995,0.0,True
+case-005_09-Dec-2020_12:18:26.geojson,case-005,medium,15-24,male,,26,3397.3069999999993,1,3440.0599999999995,0.0,True
+case-005_10-Dec-2020_15:24:28.geojson,case-005,high,15-24,male,He intentado acercarme al centro y bares lo menos posible y centros escolares de primaria e infantil,12,3384.0559999999996,1,3440.0599999999995,0.0,True
+case-005_10-Dec-2020_19:05:12.geojson,case-005,medium,15-24,male,,1,2943.3099999999986,1,3440.0599999999995,245.4885764052485,False
+case-005_11-Dec-2020_16:10:56.geojson,case-005,zero,25-64,female,,2,3236.1679999999983,1,3440.0599999999995,0.0,True
+case-005_10-Dec-2020_19:02:03.geojson,case-005,medium,15-24,female,,23,3136.847,1,3440.0599999999995,240.09818029414004,False
+case-005_03-Dec-2020_13:08:47.geojson,case-005,high,25-64,male,,1,3205.6089999999986,1,3440.0599999999995,12.38910227803022,True
+case-005_09-Dec-2020_16:28:13.geojson,case-005,high,15-24,female,Pongo por ahi la ruta porque si la pongo directamente me la cambia en un sitio por donde no iria ,14,2972.828,1,3440.0599999999995,265.73119243685176,False
