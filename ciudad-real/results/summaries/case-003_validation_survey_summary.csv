@@ -1,7 +1,7 @@
 file_name,case_id,knowledge_city_level,age,gender,comments,survey_number_danger_points,survey_route_length,best_number_danger_points,best_route_length,distance_ends (m),valid
 case-003_18-Dec-2020_18:13:00.geojson,case-003,high,25-64,male,mas corto,7,1619.7689999999998,0,3001.0129999999995,102.74112079030013,True
-case-003_10-Dec-2020_19:00:51.geojson,case-003,medium,15-24,female,,33,1869.6230000000005,0,3001.0129999999995,0.0,True
-case-003_18-Dec-2020_14:43:44.geojson,case-003,medium,25-64,female,,9,2073.5119999999997,0,3001.0129999999995,0.0,True
+case-003_10-Dec-2020_19:00:51.geojson,case-003,medium,15-24,female,,27,1869.6230000000005,0,3001.0129999999995,0.0,True
+case-003_18-Dec-2020_14:43:44.geojson,case-003,medium,25-64,female,,8,2073.5119999999997,0,3001.0129999999995,0.0,True
 case-003_09-Dec-2020_19:13:57.geojson,case-003,medium,15-24,male,,8,1503.5289999999998,0,3001.0129999999995,0.0,True
 case-003_09-Dec-2020_16:08:09.geojson,case-003,medium,15-24,male,Es una ruta directa que te hace callejear por calles no tan concurridas,7,1601.6779999999999,0,3001.0129999999995,104.16951572445043,True
 case-003_18-Dec-2020_21:26:06.geojson,case-003,low,25-64,female,,8,1576.3329999999999,0,3001.0129999999995,130.48128586107038,True
@@ -12,10 +12,10 @@ case-003_02-Dec-2020_20:22:08.geojson,case-003,low,25-64,other,,11,1798.09499999
 case-003_10-Dec-2020_14:44:41.geojson,case-003,high,15-24,male,He intentado evitar la universidad y cafeterías cercanas que a esas horas pueden ser sitios concurridos,8,1585.6349999999998,0,3001.0129999999995,0.0,True
 case-003_03-Dec-2020_13:07:34.geojson,case-003,high,25-64,male,"I tried to avoid ""main"" streets where it is more likely to bump into people.",8,1567.4419999999998,0,3001.0129999999995,121.70569116913208,True
 case-003_09-Dec-2020_12:17:24.geojson,case-003,medium,15-24,male,,7,1619.7689999999998,0,3001.0129999999995,102.74112079030013,True
-case-003_01-Dec-2020_10:50:07.geojson,case-003,medium,25-64,male,"Me iría por la ronda, zona amplia y menos transitada (dedicada a vehículos)",22,1878.1970000000003,0,3001.0129999999995,0.0,True
-case-003_01-Dec-2020_10:41:09.geojson,case-003,medium,25-64,male,,26,1934.6250000000005,0,3001.0129999999995,0.0,True
-case-003_10-Dec-2020_19:03:19.geojson,case-003,medium,15-24,male,,10,1542.105,0,3001.0129999999995,141.84082100520965,True
+case-003_01-Dec-2020_10:50:07.geojson,case-003,medium,25-64,male,"Me iría por la ronda, zona amplia y menos transitada (dedicada a vehículos)",21,1878.1970000000003,0,3001.0129999999995,0.0,True
+case-003_01-Dec-2020_10:41:09.geojson,case-003,medium,25-64,male,,23,1934.6250000000005,0,3001.0129999999995,0.0,True
+case-003_10-Dec-2020_19:03:19.geojson,case-003,medium,15-24,male,,9,1542.105,0,3001.0129999999995,141.84082100520965,True
 case-003_09-Dec-2020_19:00:44.geojson,case-003,medium,15-24,male,https://www.dropbox.com/t/YHAsNtjxzejM9kQ7,7,1619.7689999999998,0,3001.0129999999995,102.74112079030013,True
 case-003_09-Dec-2020_14:13:15.geojson,case-003,low,15-24,male,,8,1503.5289999999998,0,3001.0129999999995,0.0,True
-case-003_11-Dec-2020_16:08:17.geojson,case-003,zero,25-64,female,,50,2303.165000000001,0,3001.0129999999995,0.0,True
+case-003_11-Dec-2020_16:08:17.geojson,case-003,zero,25-64,female,,44,2303.165000000001,0,3001.0129999999995,0.0,True
 case-003_09-Dec-2020_17:36:34.geojson,case-003,medium,15-24,male,,7,1601.6779999999999,0,3001.0129999999995,104.16951572445043,True
